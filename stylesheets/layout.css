@@ -17,7 +17,7 @@ body {
   position: absolute;
   width: 10vw;
   height: 10vw;
-  background-color: rgb(248, 130, 178);
+  background-color: #ff5b9d;
   border-radius: 50vw;
   animation: bounce1 20s linear infinite;
 }
@@ -29,10 +29,94 @@ body {
   border-radius: 50vw;
   animation: bounce2 30s linear infinite;
 }
-.svg-container {
+.flowers {
   position: relative;
   width: 100vw;
   height: 60vw;
   overflow: hidden;
   background-color: #cda8e1;
+  /* background-image: url(../images/Group\ 529.png); */
+}
+.flower1 {
+  width: 12.188vw;
+  height: 12.655vw;
+  margin-top: 5vw;
+  margin-left: 9vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../images/flowerwhite.svg);
+}
+.flower2 {
+  width: 12.188vw;
+  height: 12.655vw;
+  margin-top: 6vw;
+  margin-left: 21vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../images/flowerwhite.svg);
+}
+.flower3 {
+  width: 12.188vw;
+  height: 12.655vw;
+  margin-top: 6.5vw;
+  margin-left: 9vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../images/flowerwhite.svg);
+}
+
+.flower4 {
+  width: 12.188vw;
+  height: 12.655vw;
+  margin-top: -50.5vw;
+  margin-left: 40.5vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../images/flowerwhite.svg);
+}
+.flower5 {
+  width: 12.188vw;
+  height: 12.655vw;
+
+  margin-top: 6vw;
+  margin-left: 52vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../images/flowerwhite.svg);
+}
+.flower6 {
+  width: 12.188vw;
+  height: 12.655vw;
+  margin-top: 6.5vw;
+  margin-left: 41vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../images/flowerwhite.svg);
+}
+.flower7 {
+  width: 12.188vw;
+  height: 12.655vw;
+  margin-top: -50.5vw;
+  margin-left: 70.7vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../images/flowerwhite.svg);
+}
+.flower8 {
+  width: 12.188vw;
+  height: 12.655vw;
+  margin-top: 6vw;
+  margin-left: 83vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../images/flowerwhite.svg);
+}
+.flower9 {
+  width: 12.188vw;
+  height: 12.655vw;
+  margin-top: 6.5vw;
+  margin-left: 70.7vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../images/flowerwhite.svg);
 }
